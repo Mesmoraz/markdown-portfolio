@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Taylor G. Philpott M.Ed
+## Game Developer and Project Manager
