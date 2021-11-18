@@ -1,1 +1,5 @@
-Replace this with a link to your a GitHub or social media profile.
+- [GitHub](https://github.com/Mesmoraz)
+- [Twitter dead atm](https://twitter.com/Mesmoraz)
+- [Discord](https://discordapp.com/users/xxxx/689639688084127785)
+- [Twtich](url)
+- [LinkedIn](url)
